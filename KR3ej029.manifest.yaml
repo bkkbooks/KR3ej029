@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ej029/v1
 canonical_location: https://kanripo.org/bkk/KR3ej029/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 醫宗金鑑·幼科心法要訣
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ej029_000.yaml, hash: 'sha256:a61748ed0ccc22100b60cc1c4928cef03d39ef56025ba923ae37bd9b9998025c'}
+  - {seq: 0, filename: KR3ej029_000.yaml, hash: 'sha256:9cd6236d839d8f966fcc28baa6a75cd330d30ba1b9698416a9b5a6e47b0320dc'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ej029_000.markers.yaml, hash: 'sha256:59d6242df5897caf76eb7abefb4a3fd8aa3d5bdfb2cb2d3930faf6b16745e669'}
+  - {seq: 0, role: markers, filename: assets/KR3ej029_000.markers.yaml, hash: 'sha256:0d31c165c861b6c2142e6fc9b0dc4c8ad9dc838e920cfd30594ea13d4446e6ca'}
 table_of_contents:
 - ref:
     seq: 0
@@ -2371,4 +2371,7 @@ table_of_contents:
   label: 中惡
   type: section
   level: 2
-hash: sha256:c8f679fdf76a5c632aef10dafd3915ff9f990d0001c0ca6720fe670d984687f8
+hash: sha256:569ce847abea00450628f7da8f5323e75902df0b9d26827b1c984d7a119b9faa
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
