@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ej029_000.yaml, hash: 'sha256:9cd6236d839d8f966fcc28baa6a75cd330d30ba1b9698416a9b5a6e47b0320dc'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ej029_000.markers.yaml, hash: 'sha256:0d31c165c861b6c2142e6fc9b0dc4c8ad9dc838e920cfd30594ea13d4446e6ca'}
+  - {seq: 0, role: markers, filename: assets/KR3ej029_000.markers.yaml, hash: 'sha256:e5583b1a76a39926e0524aea33a9f7dfc2709e1a228b03e7d9b4f5f3c05985ef'}
 table_of_contents:
 - ref:
     seq: 0
@@ -2371,7 +2371,7 @@ table_of_contents:
   label: 中惡
   type: section
   level: 2
-hash: sha256:569ce847abea00450628f7da8f5323e75902df0b9d26827b1c984d7a119b9faa
+hash: sha256:2f95eb56b16692bd172b1909f7a7f95f49eee478d11ce64fa775bcb1cfe4985b
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
